@@ -15,9 +15,6 @@ header {
 .navbar {
   position: absolute;
   right: 10px;
-  margin-left: 10px;
-  font-size: 13px;
-  font-family: arial, sans-serif;
   word-spacing: 15px;
 }
 
